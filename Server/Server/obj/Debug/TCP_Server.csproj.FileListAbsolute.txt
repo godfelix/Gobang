@@ -1,0 +1,21 @@
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.GenerateResource.Cache
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\Network\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\bin\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\bin\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csprojResolveAssemblyReference.cache
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\TCP_Server\TCP_Server\obj\Debug\TCP_Server.csproj.GenerateResource.Cache
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\TCP_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\TCP_Server\obj\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\TCP_Server\obj\Debug\TCP_Server.pdb

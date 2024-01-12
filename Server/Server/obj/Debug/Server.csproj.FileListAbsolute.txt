@@ -1,0 +1,76 @@
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csprojResolveAssemblyReference.cache
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\YCC\Desktop\C# online\CS2012\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.Cache
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\kuo\Downloads\07_TCPChat\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe.config
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\bin\Debug\TCP_Server.exe
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\bin\Debug\TCP_Server.pdb
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.AssemblyReference.cache
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.GenerateResource.cache
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\Chat_Server.csproj.CoreCompileInputs.cache
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\TCP_Server.exe
+C:\Users\kuo\Desktop\Chat_Server\Chat_Server\obj\Debug\TCP_Server.pdb
+C:\Users\kuo\Desktop\Server\Server\bin\Debug\TCP_Server.exe.config
+C:\Users\kuo\Desktop\Server\Server\bin\Debug\TCP_Server.exe
+C:\Users\kuo\Desktop\Server\Server\bin\Debug\TCP_Server.pdb
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\TCP_Server.exe
+C:\Users\kuo\Desktop\Server\Server\obj\Debug\TCP_Server.pdb
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\bin\Debug\TCP_Server.exe.config
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\bin\Debug\TCP_Server.exe
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\bin\Debug\TCP_Server.pdb
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\TCP_Server.Form1.resources
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\TCP_Server.Properties.Resources.resources
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\TCP_Server.exe
+D:\Uni_programming\Uni_CSharp\Project\Server\Server\obj\Debug\TCP_Server.pdb
+D:\Uni_programming\Uni_CSharp\Project\Five_in_a_row\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Project\Five_in_a_row\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Uni_programming\Uni_CSharp\Project\Five_in_a_row\Server\obj\Debug\TCP_Server.exe
+D:\Uni_programming\Uni_CSharp\Project\Five_in_a_row\Server\obj\Debug\TCP_Server.pdb
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\bin\Debug\TCP_Server.exe.config
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\bin\Debug\TCP_Server.exe
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\bin\Debug\TCP_Server.pdb
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\TCP_Server.Form1.resources
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\TCP_Server.Properties.Resources.resources
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\TCP_Server.exe
+D:\Uni_programming\Uni_CSharp\Project\五子棋\Server\Server\obj\Debug\TCP_Server.pdb
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\bin\Debug\TCP_Server.exe.config
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\bin\Debug\TCP_Server.exe
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\bin\Debug\TCP_Server.pdb
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\Server.csproj.SuggestedBindingRedirects.cache
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\TCP_Server.Form1.resources
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\TCP_Server.Properties.Resources.resources
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\Server.csproj.GenerateResource.cache
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\TCP_Server.exe
+C:\Users\kuo\Desktop\第一組 五子棋\Server\Server\obj\Debug\TCP_Server.pdb
